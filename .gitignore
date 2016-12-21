@@ -6,7 +6,5 @@ logs/*
 cache/*
 static/tmp/*
 notes/favourites/*
-error.log
+*.log
 *.pyc
-modules/*.pyc
-libs/*.pyc
