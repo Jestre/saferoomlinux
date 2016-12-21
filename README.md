@@ -1,6 +1,13 @@
 # Saferoom
 Encryption extension to Evernote and Onenote platforms
 
+# NOTE:
+
+This is a forked repository, simply so that I could manage and untrack files, e.g. config.ini which 
+were added to the original repo prior to their `.gitignore` file being updated.  
+
+To ensure you have the latest code, please track the [original](https://github.com/saferoom-app/saferoomlinux).
+
 # Installation
 
 ## Quickstart
